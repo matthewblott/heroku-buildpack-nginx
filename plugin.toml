@@ -1,0 +1,4 @@
+[plugin]
+description = "Fork of heroku-buildpack-nginx"
+version = "0.1.0"
+[plugin.config]
